@@ -20,7 +20,7 @@ The app starts at `/login`. Demo credentials:
 | Manager | sarah@restaurant.com | manager123 |
 | Staff | mike@restaurant.com | staff123 |
 
-Auth state is stored in Redux (`authSlice`) and persisted to localStorage.
+Auth state is stored in Redux (`authSlice`) and persisted to localStorage. 
 
 ## Getting Started
 
